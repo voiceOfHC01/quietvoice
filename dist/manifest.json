@@ -1,0 +1,19 @@
+{
+  "name": "QuietVoice - Mobile Noise Remover",
+  "short_name": "QuietVoice",
+  "description": "Production-grade voice recorder with real-time fan, AC, and background noise removal",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "categories": ["utilities", "productivity", "audio"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
